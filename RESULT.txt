@@ -1,0 +1,8 @@
+def hello():
+  print("Hello, друуууууг!")            ///// НАЧАЛО ДОБАВЛЕННОГО БЛОКА КОДА 
+
+def goodbye():
+  print("Goodbye, world!")            ///// КОНЕЦ ДОБАВЛЕННОГО БЛОКА КОДА
+
+print(hello())
+print(goodbye())            ///// СТРОКА, ДОБАВЛЕННАЯ ПРОГРАММИСТОМ

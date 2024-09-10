@@ -1,0 +1,14 @@
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\bin\Debug\net6.0\NEVLABS.exe
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\bin\Debug\net6.0\NEVLABS.deps.json
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\bin\Debug\net6.0\NEVLABS.runtimeconfig.json
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\bin\Debug\net6.0\NEVLABS.dll
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\bin\Debug\net6.0\NEVLABS.pdb
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\obj\Debug\net6.0\NEVLABS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\obj\Debug\net6.0\NEVLABS.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\obj\Debug\net6.0\NEVLABS.AssemblyInfo.cs
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\obj\Debug\net6.0\NEVLABS.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\obj\Debug\net6.0\NEVLABS.dll
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\obj\Debug\net6.0\refint\NEVLABS.dll
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\obj\Debug\net6.0\NEVLABS.pdb
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\obj\Debug\net6.0\NEVLABS.genruntimeconfig.cache
+C:\Users\artem\Desktop\ALL PROG\NEVLABS\NEVLABS\obj\Debug\net6.0\ref\NEVLABS.dll

@@ -1,0 +1,4 @@
+def helloooo():
+  print("Hello, world!")
+
+print(hello())
